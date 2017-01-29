@@ -1,0 +1,3 @@
+Hello !!
+This is File Copying Test !!
+** CoPiEd **
